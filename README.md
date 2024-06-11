@@ -20,10 +20,3 @@ Welcome to my **Learning Basic Python** repository. This project is designed to 
 7. File Handling
 8. Object-Oriented Programming
 9. Essential Libraries
-
-## How to Use This Repository
-
-To explore this repository, you can clone or download the content. Here are the commands to clone the repository using Git:
-
-```sh
-git clone https://github.com/your-username/learning-basic-python.git
